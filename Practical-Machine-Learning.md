@@ -1,4 +1,3 @@
-# Course-Project-Practical-Machine-Learning
 ---
 title: "Predicting quality of exercises using machine learning techniques"
 author: "Haobo Yuan"
